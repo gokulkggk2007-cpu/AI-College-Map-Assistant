@@ -1,0 +1,6 @@
+{
+  "name": "AI College Map Assistant",
+  "description": "Production-ready AI College Map Assistant with interactive multi-floor campus map, Dijkstra routing, accessible navigation, multilingual AI queries (English, Tamil, Tanglish), and Admin management dashboard.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
